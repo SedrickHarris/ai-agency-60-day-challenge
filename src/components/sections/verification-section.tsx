@@ -32,7 +32,9 @@ export function VerificationSection() {
             description="This is not a self-reported leaderboard. Required sales-call and payment evidence is reviewed before eligible payments affect public standings."
           />
           <p className="verification-section__privacy">
-            The Rankings Are Public. The Proof Is Private.
+            The Rankings Are Public.
+            <br />
+            The Proof Is Private.
           </p>
         </div>
         <div className="verification-list">

@@ -35,7 +35,7 @@ export function CountingRulesSection() {
       <div className="container">
         <SectionHeading
           eyebrow="The scoring line"
-          title={<>Real cash collected. <span>Nothing else.</span></>}
+          title={<>Real cash collected.<br /><span>Nothing else.</span></>}
           description="Only approved eligible payments actually received can affect standings."
         />
         <div className="counting-grid">

@@ -29,8 +29,11 @@ export function HeroSection() {
             </CtaLink>
           </div>
           <p className="hero__eligibility-note">
-            Open worldwide to eligible GoHighLevel users under Carson’s link, subject to final
-            rules and applicable restrictions. One entrant per agency. Launch date to be announced.
+            Open worldwide to eligible GoHighLevel users under Carson’s link, subject to final rules and applicable restrictions.
+            <br />
+            One entrant per agency.
+            <br />
+            Launch date to be announced.
           </p>
         </div>
 

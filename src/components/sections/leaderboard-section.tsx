@@ -8,7 +8,7 @@ export function LeaderboardSection() {
         <div className="leaderboard-section__heading">
           <SectionHeading
             eyebrow="Public standings"
-            title={<>The Rankings Are Public. <span>The Proof Is Private.</span></>}
+            title={<>The Rankings Are Public.<br /><span>The Proof Is Private.</span></>}
             description="Public standings show approved totals. Client and payment evidence stays private."
           />
           <span className="demo-stamp"><span aria-hidden="true">●</span> MOCK STANDINGS</span>
